@@ -20,8 +20,6 @@ t6.down()
 #print(user_input)
 '''
 a = -200
-speeds= [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-positions = [ --70, --40, 0, 80, 120 ]
 start_y = -120
 spacing = 50
 
@@ -37,5 +35,6 @@ for turtle_index in range(0, 6):
 
 
     
+
 
 

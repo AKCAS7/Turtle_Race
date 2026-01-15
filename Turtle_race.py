@@ -4,7 +4,7 @@ import random
 
 screen = Screen()
 screen.setup(width = 500, height = 400 )
-#user_input = screen.textinput("Take your pick", " Choose your winning color : " )
+user_input = screen.textinput("Take your pick", " Choose your winning color : " )
 
 '''
 t1.penup()
@@ -50,3 +50,4 @@ for turtle_index in range(0, 6):
 
 
     
+
